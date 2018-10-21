@@ -1,6 +1,7 @@
-<!DOCTYPE HTML>
- <HTML>
-  <body>
-   <p>This is my house you meddling kids</p>
-   </body>
-  </html>
+Things I Have Learned at Bloc.io
+
+-HTML
+-CSS
+-Javascript
+-Git
+-...
